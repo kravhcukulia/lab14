@@ -41,7 +41,7 @@ def compute_sum():
     label4['text'] = 'Сума = ' + str(s)
 
 def about_author():
-    messagebox.showinfo('Про автора', 'Автор: Ім\'я автора\nEmail: email@example.com')
+    messagebox.showinfo('Про автора', 'Автор: Ім\'я автора\nEmail:kravcukulia050@gmail.com')
 
 def problem_statement():
     messagebox.showinfo('Умова задачі', 'Збільшити вдвічі всі елементи одновимірного масиву, кратні 4.\nВиконати сортування елементів масиву за спаданням методом обміну.')
